@@ -22,6 +22,12 @@ example:**622baa375aa1**
 
 6.  The VI editor is installed on the image, if you are not familiar with VI you may want take a look here:
  [https://www.guru99.com/the-vi-editor.html](https://www.guru99.com/the-vi-editor.html)
+    
+    You can also install the `nano` package using the following command line:
+    ``` shell
+    apk add nano
+    ```
+    More documentation on Nano there: <https://www.nano-editor.org/dist/latest/nano.html>
 
 7. After making required modifications restart the container for the changes to take effect\
 `exit`\
